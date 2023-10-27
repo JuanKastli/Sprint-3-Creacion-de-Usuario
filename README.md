@@ -1,4 +1,4 @@
-# Sprint-3-Grupo2-Bertoldi-
+# Sprint-3-Registro-
 from selenium import webdriver
 #from selenium.webdriver import wait
 from selenium.webdriver.common.by import By
